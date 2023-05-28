@@ -1,0 +1,24 @@
+﻿﻿clauses
+    pharmacy(1,'Orteka','Moscow',89109998090,34234).
+    pharmacy(2,'We Better teka','Saint Peter',89109696066,1414).
+    pharmacy(3,'Nurlan pharm','Vlavikavkaz',89107797070,141414).
+    pharmacy(4,'Hypers','Crimea',891077625070,141414).
+
+    medicine(11,"spareks").
+    medicine(12,"teraflu").
+    medicine(13,"protein").
+
+    sells(1,11,350 ,alot).
+    sells(2,11,390 ,few).
+    sells(3,11,290,enough).
+    sells(4,11,299,enough).
+
+    sells(1,12,560 ,enough).
+    sells(2,12,960 ,few).
+    sells(3,12,340 ,alot).
+    sells(4,12,540 ,few).
+
+    sells(1,13,900 ,enough).
+    sells(2,13,910 ,alot).
+    sells(3,13,739 ,enough).
+    sells(4,13,899 ,few).
