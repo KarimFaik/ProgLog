@@ -1,0 +1,30 @@
+﻿﻿clauses
+    pharm(1, "pharm1", usa,"newyork" ,45000).
+    pharm(2, "pharm2", polannd,"katow" ,34000).
+    pharm(3, "pharm3", russia,"xabarovk", 24000).
+    pharm(4, "pharm4", venez,"karaks", 46400).
+    place("Saint").
+    place("Tarkov").
+    place("Vladi").
+    place("Donetsk").
+    place("Moscow").
+    result(8 , 3).
+    result(0 , 5).
+    result(9 , 4).
+    result(0 , 3).
+    medic(24, "Brand", 1).
+    medic(27, "Justice", 1).
+    medic(28, "Waines", 1).
+    medic(21, "Joniete", 1).
+    medic(12, "Verta", 2).
+    medic(16, "Roah", 2).
+    medic(17, "UIffpop", 2).
+    medic(19, "Sodium", 2).
+    medic(5, "Poluimd", 3).
+    medic(6, "Blidod", 3).
+    medic(7, "VBl", 3).
+    medic(8, "Kifue", 3).
+    medic(33, "fyfiumk",4).
+    medic(35, "dagisan",4).
+    medic(36, "Matdium",4).
+    medic(37, "Finlats",4).
